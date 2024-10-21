@@ -9,7 +9,7 @@ function output() {
     result.value = eval(result.value)   
     } 
     catch {
-        result.value="wake up to reality..!!"
+        result.value="INVALID..!!"
     }
 }
 function del() {
